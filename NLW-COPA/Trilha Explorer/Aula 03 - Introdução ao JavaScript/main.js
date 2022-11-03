@@ -8,6 +8,7 @@ function createGame(player1, hour, player2) {
 `
 }
 
+
 function createCard(date, day,games) {
     return `
     <div class="card">
